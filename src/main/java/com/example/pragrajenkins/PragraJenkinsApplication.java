@@ -8,7 +8,7 @@ public class PragraJenkinsApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(PragraJenkinsApplication.class, args);
-        //
+        System.out.println("Simple change in jenkins ");
     }
 
 }
